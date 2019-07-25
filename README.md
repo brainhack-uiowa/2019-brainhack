@@ -8,3 +8,12 @@ There is a brief writeup for the event in the `docs` folder.
 [Slack](https://2019uibrainhack.slack.com) (email james-kent@uiowa.edu for an invite)
 
 [Tips on Hosting a Brainhack](https://www.brainhack.org/host.html)
+
+## Tutorials/Videos
+
+- Docker Tutorial
+  - [repo](https://github.com/jdkent/tutDockerRstudio)
+  - [video](https://www.youtube.com/watch?v=mXT0HXu4uQY&list=PLXFuA4Ik1nXeeNPLEYZgMSMi5CDwwvRn7)
+- Neuroimaging in Python
+  - [repo](https://github.com/miykael/workshop_cambridge)
+  - [video](https://www.youtube.com/watch?v=0KmuaOKMER0&list=PLXFuA4Ik1nXeeNPLEYZgMSMi5CDwwvRn7)

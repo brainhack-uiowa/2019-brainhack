@@ -9,6 +9,10 @@ There is a brief writeup for the event in the `docs` folder.
 
 [Tips on Hosting a Brainhack](https://www.brainhack.org/host.html)
 
+## Schedule
+
+- [spreadsheet of events](https://docs.google.com/spreadsheets/d/1slRdT54yi3xVNyoKzdnAt4Xi1NAjDegUmQzQO-rXjLQ/edit#gid=0)
+
 ## Tutorials/Videos
 
 - Docker Tutorial

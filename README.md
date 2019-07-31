@@ -21,3 +21,9 @@ There is a brief writeup for the event in the `docs` folder.
 - Neuroimaging in Python
   - [repo](https://github.com/miykael/workshop_cambridge)
   - [video](https://www.youtube.com/watch?v=0KmuaOKMER0&list=PLXFuA4Ik1nXeeNPLEYZgMSMi5CDwwvRn7)
+
+Project Outcomes
+
+- [xcpOut](https://github.com/HBClab/xcpOut)
+- [omics](https://github.com/Kwamewusu/uihh_nowusu)
+- deep learning (link?)

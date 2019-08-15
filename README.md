@@ -27,3 +27,6 @@ Project Outcomes
 - [xcpOut](https://github.com/HBClab/xcpOut)
 - [omics](https://github.com/Kwamewusu/uihh_nowusu)
 - deep learning (link?)
+
+
+[photos from event](https://www.dropbox.com/sh/g5slaqla2gc7s48/AAAcURdfylgn0hpl6Bp5MQIea?dl=0)
